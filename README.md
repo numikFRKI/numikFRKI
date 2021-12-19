@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/907409185023602752/922028957929467954/unknown.png" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/918730872163827744/922030356335583243/No.png" /> 
 
 ```csharp
 numikFRKI@github
@@ -25,4 +25,3 @@ Languages  :  C++ C# Python
   <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
   <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
 </p>
-(found this on ecriminals page)
