@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/918730872163827744/922030356335583243/No.png" /> 
+<img align="left" src="https://raw.githubusercontent.com/numikFRKI/numikFRKI/main/assets/No.png" alt="logo.png" width="200" /> 
 
 ```csharp
 numikFRKI@github
