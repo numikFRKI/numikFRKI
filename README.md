@@ -14,7 +14,7 @@ numikFRKI@github
  Terminal  :  Alacritty
       CPU  :  intel i7
     Alias  :  numi/numikek
-Languages  :  C++ C# Python
+Languages  :  C++ C# C Python
 ```
 
 <p align="left">
