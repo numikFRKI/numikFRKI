@@ -13,7 +13,7 @@ numikFRKI@github
     Shell  :  zsh 5.8
  Terminal  :  Alacritty
       CPU  :  intel i7
-    Alias  :  numi/numikek
+    Alias  :  numikek/ekho/skeech/
 Languages  :  C++ C# C Python
 ```
 
