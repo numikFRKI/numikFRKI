@@ -1,28 +1,37 @@
-```zsh
-> neofetch
-```
 
-<img align="left" src="https://raw.githubusercontent.com/numikFRKI/numikFRKI/main/assets/No.png" alt="logo.png" width="200" /> 
-
-```csharp
-numikFRKI@github
-----------------
-
-       OS  :  Gentoo
-       WM  :  dwm
-    Shell  :  zsh 5.8
- Terminal  :  Alacritty
-      CPU  :  intel i7
-    Alias  :  numikek/ekho/skeech/
-Languages  :  C++ C# C Python
-```
-
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/ADBAC7/000000?text=+" width="25" height="20" />
-  <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
-  <img alt="#c9594d" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
-  <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
-  <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
+<p align="center"><br>
+  <a href="https://github.com/numikFRKI">
+    <img src="https://lanyard.cnrad.dev/api/361168058137575424"/>
+     </a>
 </p>
-(found on ecriminals page)
+
+<br><br>
+<p align="center">
+	<b>Languages & Frameworks</b>
+	<br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+	<br><br>
+	<b>My Github Stats</b><br>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=numikFRKI&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=NumikFRKI&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numikFRKI&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+</p>
+
+
+<p>&nbsp;</p>    
+
+---  
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/numikFRKI/count.svg" />
+</p>
