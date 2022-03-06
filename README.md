@@ -1,4 +1,7 @@
 
+>> https://nohello.net/en/
+>> https://dontasktoask.com/
+
 <p align="center"><br>
   <a href="https://github.com/numikFRKI">
     <img src="https://lanyard-profile-readme.vercel.app/api/361168058137575424?hideDiscrim=true"/>
