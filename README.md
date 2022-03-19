@@ -16,6 +16,7 @@
 	<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;|
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
 	<b>Languages & Frameworks I'm learning.</b>
+	<br><br>
 	<code><img height="25" src="https://raw.githubusercontent.com/numikFRKI/numikFRKI/main/assets/powershell.png"></code>&nbsp;
 	<b>My Github Stats</b><br>
     	<img src="https://github-readme-streak-stats.herokuapp.com/?user=numikFRKI&theme=dark&hide_border=true">
