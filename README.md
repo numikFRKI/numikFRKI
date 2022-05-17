@@ -4,7 +4,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/numikFRKI">
-    <img src="https://camo.githubusercontent.com/10009a10d4bfe13e9f0933569e29b53c78a7b2e4fcc98ccbe20c4161bd1b9e51/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3336313136383035383133373537353432343f686964654469736372696d3d74727565"/>
+    <img src="https://lanyard.cnrad.dev/api/361168058137575424?hideDiscrim=true"/>
      </a>
 </p>
 
