@@ -4,8 +4,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/numikFRKI">
-<!---    <img src="https://lanyard.cnrad.dev/api/361168058137575424?hideDiscrim=true"/> -->
-	  <img src="https://lanyard.cnrad.dev/api/884388703861108766?hideDiscrim=true"/>
+	<img src="https://lanyard.cnrad.dev/api/884388703861108766?hideDiscrim=true"/>
      </a>
 </p>
 
