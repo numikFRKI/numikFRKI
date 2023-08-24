@@ -1,7 +1,3 @@
-
-# ➤➤ https://nohello.net/ <br>
-# ➤➤ https://dontasktoask.com/
-
 <p align="center"><br>
   <a href="https://github.com/numikFRKI">
 	<img src="https://lanyard.cnrad.dev/api/884388703861108766?hideDiscrim=true"/>
