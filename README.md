@@ -9,7 +9,7 @@
 	<b>Languages & Frameworks</b>
 	<br>
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
-	<code><img height="25" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png)"></code>&nbsp;|
+	<code><img height="25" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg]"></code>&nbsp;|
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;|
 	<code><img height="25" src="https://raw.githubusercontent.com/numikFRKI/numikFRKI/main/assets/powershell.png"></code>&nbsp;
 	<br><br>
