@@ -14,9 +14,9 @@
 	<code><img height="25" src="https://raw.githubusercontent.com/numikFRKI/numikFRKI/main/assets/powershell.png"></code>&nbsp;
 	<br><br>
 	<b>My Github Stats</b><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=numikFRKI&theme=tokyonight&hide_border=true">
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=numikFRKI&theme=radical&hide_border=true">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numikFRKI&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numikFRKI&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=radical">
 </p>
 
 
